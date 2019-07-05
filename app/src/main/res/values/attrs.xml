@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> <item name="sub_button1" type="id" />
+    <item name="sub_button2" type="id" />
+    <item name="sub_button3" type="id" />
+    <item name="sub_button4" type="id" />
+    <item name="tv_setting_sub_menu" type="id"/>
+    <item name="image_view_firmware_update" type="id"/></resources>
